@@ -1,1 +1,1 @@
-# -Google-Trends-Dashboard-for-Smartphone
+# Google-Trends-Dashboard-for-Smartphone
