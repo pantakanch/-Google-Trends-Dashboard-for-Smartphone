@@ -1,10 +1,10 @@
 # Google Trends Dashboard for Smartphone
 
-## Overview
+## Overview:
 
 This GitHub project, "Google Trends Dashboard for Smartphone," aims to leverage R programming to gather data from Google Trends and create an insightful dashboard using Looker Studio. The primary goal is to discover the search interest for flagship smartphones of various brands, including Samsung (Samsung S23), Oppo (Oppo Find), iPhone (iPhone 15), and Xiaomi (Xiaomi 14) over a specific time period (past 12 months).
 
-## Project Structure
+## Project Structure:
 
 ### 1. Data Collection
 
@@ -20,7 +20,7 @@ Functional programming principles are applied to streamline the data collection 
 
 The obtained data is stored in a Google Sheets document specified by the `sheet_url`. This data serves as the foundation for a Looker Studio dashboard. Looker Studio is chosen for its powerful visualization capabilities and user-friendly interface.
 
-## Results
+## Results:
 The Looker Studio dashboard provides a visual representation of the search interest trends for the specified smartphones. Users can easily analyze and compare the popularity of flagship smartphones across different brands over the past year.
 
 Dashboard : https://lookerstudio.google.com/reporting/2606ad1a-43e6-4443-9430-6520ec06f35d
